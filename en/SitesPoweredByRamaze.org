@@ -12,7 +12,6 @@ Feel free to add your site to this page, also see about other options of [[Promo
  * [[http://wonko.com/][wonko.com]]
  * [[http://planet.zhekov.net/][Tamanegi]], rss/atom feeds aggregator
  * [[http://linis.purepistos.net/][LinisTrac]], a highly spam-resistant issue tracker
- * [[http://weez-int.com][Weez International Ltd.]]
  * [[http://purepistos.net][purepistos.net]]
  * [[http://fixnum.org/blog][fixnum.org]], a personal blog
  * [[http://www.patchspace.co.uk/][PatchSpace Ltd]] - company site

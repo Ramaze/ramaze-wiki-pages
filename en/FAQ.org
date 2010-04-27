@@ -91,6 +91,14 @@ If your layout needs are more complex than that, you can:
     }
 }}}
 
+** Why are my flash messages showing up for two requests instead of just one?
+
+Flash messages expire after the *next* hit (HTTP request). If you are seeing
+the flash message persist for two requests, that usually means you are
+displaying the flash message on the *current* hit.  If flash messages were
+cleared after the current hit, then they could not be used in redirection.
+Generally, the flash hash should only be used together with redirection.
+
 ** How do I handle file uploads?
 
 See [[http://github.com/manveru/ramaze/tree/master/examples/app/upload][the file upload example]] in the examples directory.

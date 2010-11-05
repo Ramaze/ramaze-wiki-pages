@@ -11,7 +11,7 @@ Ramaze.start :adapter => :thin
 
 ** Ebb
 
-Ebb se veut être un server simple et rapide, spécialement quand il s'agit d'une application web dynamique en Ruby. Plus d'info sur  [[http://groups.google.com/group/ebbebb][google group]]. Le code source est hébergé sur [[http://github.com/ry/ebb/tree/master][github]].
+Ebb se veut être un server simple et rapide, spécialement quand il s'agit d'une application web dynamique en Ruby. Plus d'info sur  [[http://groups.google.com/group/ebbebb][google group]]. Le code source est hébergé sur [[https://github.com/ry/ebb/tree/master][github]].
 C'est un binding de [[http://tinyclouds.org/libebb][libebb]].
 
 {{{ ruby

@@ -28,18 +28,18 @@ Ramaze.start
 
 ** Development
 
-  * [[http://github.com/manveru/ramaze][GitHub hosted repository]]
+  * [[https://github.com/manveru/ramaze][GitHub hosted repository]]
   * [[http://doc.rubyists.com/ramaze+innate/][YARD Documentation]]
 
 ** Recent Patches
-[[feed:http://github.com/feeds/manveru/commits/ramaze/master]]
+[[feed:https://github.com/feeds/manveru/commits/ramaze/master]]
 
 ** Recent Google Group Posts
 [[feed:http://groups.google.com/group/ramaze/feed/rss_v2_0_msgs.xml]]
 
 ** Other Frameworks
 
-  * [[http://github.com/botanicus/rango][Rango]], ultralightweight, ultracustomizable, ultracool web framework inspired by Django
+  * [[https://github.com/botanicus/rango][Rango]], ultralightweight, ultracustomizable, ultracool web framework inspired by Django
   * [[http://borges.rubyforge.org/][Borges]], continuations based ruby web-framework originally ported from SeaSide
   * [[http://camping.rubyforge.org/files/README.html][Camping]], _why's 4k micro-framework
   * [[http://cerise.rubyforge.org/][Cerise]], web-framework modeled on J2EE app servers

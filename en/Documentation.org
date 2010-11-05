@@ -5,7 +5,7 @@
  * [[Deployment][Deploying Ramaze]]
  * [[http://ramaze.net/todolist.html][Todolist tutorial]] (2009.05)
  * [[Screencasts]] (2009.03)
- * An [[http://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][introductory tutorial]] that accompanies the [[http://github.com/manveru/ramaze/tree/master/examples/todolist/][todolist example]] (2009.03)
+ * An [[https://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][introductory tutorial]] that accompanies the [[https://github.com/manveru/ramaze/tree/master/examples/todolist/][todolist example]] (2009.03)
  * An [[http://www.jamesbritt.com/betaville/ramaze/understanding_ramaze_templating.html][introduction to Ramaze templating]] (2009.03)
 
 ** Documentation

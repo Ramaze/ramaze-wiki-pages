@@ -286,22 +286,22 @@ For Nginx and Apache deployment recipes, check out the [[Deployment]] page.
 
 ** Examples
 
-A few more examples to get you started. These and many others are available at [[http://github.com/manveru/ramaze/tree/master/examples/][the repo]]. There is also an [[http://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][introductory tutorial]] that accompanies the [[http://github.com/manveru/ramaze/tree/master/examples/todolist/][todolist example]].
+A few more examples to get you started. These and many others are available at [[https://github.com/manveru/ramaze/tree/master/examples/][the repo]]. There is also an [[https://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][introductory tutorial]] that accompanies the [[https://github.com/manveru/ramaze/tree/master/examples/todolist/][todolist example]].
 
 The best way to view [[http://source.ramaze.net/#/examples][these examples]], and browse around the ramaze source code is via the [[http://source.ramaze.net/#/examples/sourceview/sourceview.rb][Ramaze source code browser]]
 
 There are also a lot of applications hosted on github:
-  * [[http://github.com/Pistos/linistrac][LinisTrac]] is a clean and simple issue tracker
-  * [[http://github.com/rgrove/thoth][Thoth]] is an awesome Ruby blog engine
-  * [[http://github.com/manveru/sociar][Sociar]] is an open source social networking platform
-  * [[http://github.com/zh/tamanegi][Tamanegi]] is a RSS/Atom feeds aggregator. Using Sequel for ORM.
-  * [[http://github.com/zh/turl][TinyURL in Ramaze]]
+  * [[https://github.com/Pistos/linistrac][LinisTrac]] is a clean and simple issue tracker
+  * [[https://github.com/rgrove/thoth][Thoth]] is an awesome Ruby blog engine
+  * [[https://github.com/manveru/sociar][Sociar]] is an open source social networking platform
+  * [[https://github.com/zh/tamanegi][Tamanegi]] is a RSS/Atom feeds aggregator. Using Sequel for ORM.
+  * [[https://github.com/zh/turl][TinyURL in Ramaze]]
 
 See also these Ramaze application skeletons/protos:
 
-  * [[http://github.com/nanodeath/ramastic/tree/master][Mr Bones skeleton]] with OpenID, jQuery, Blueprint, and more
-  * [[http://github.com/Pistos/ramaze-proto/tree/master][ramaze-proto]] using jQuery, M4DBI, PostgreSQL, OpenID
-  * [[http://github.com/mwlang/ramaze-protos][mwlang's protos]] using erubis, Sequel and Bacon
+  * [[https://github.com/nanodeath/ramastic/tree/master][Mr Bones skeleton]] with OpenID, jQuery, Blueprint, and more
+  * [[https://github.com/Pistos/ramaze-proto/tree/master][ramaze-proto]] using jQuery, M4DBI, PostgreSQL, OpenID
+  * [[https://github.com/mwlang/ramaze-protos][mwlang's protos]] using erubis, Sequel and Bacon
 
 *** hello.rb
 {{{ ruby

@@ -257,7 +257,7 @@ A simple homage to [[http://nitroproject.org][Nitro]]'s templating, is shipped t
 
 ** Nagoro
 
-The next generation of Ezamar and can be found at [[http://github.com/manveru/nagoro][github]] for the time being.
+The next generation of Ezamar and can be found at [[https://github.com/manveru/nagoro][github]] for the time being.
 
 ** XSLT
 

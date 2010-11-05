@@ -27,7 +27,7 @@ Ramaze.start
 ** Neuigkeiten bezüglich Ramaze
 
  * [[http://groups.google.com/group/ramaze/browse_thread/thread/e63812dfadfe5708/772733f51c4ded18%3Fshow_docid%3D772733f51c4ded18][Ramaze 2008.06 released]]
- * The Ramaze source repository has been [[http://github.com/manveru/ramaze/tree/master][moved to GitHub]] // on May 8 2008//
+ * The Ramaze source repository has been [[https://github.com/manveru/ramaze/tree/master][moved to GitHub]] // on May 8 2008//
  * Ramaze now [[http://darcs.ramaze.net/?r=ramaze;a=commit;h=20080503141144-cbc08-3938580de207fc33d4205a48a9fca50ac1ac88db.gz][runs on Rubinius]] //on May 3 2008//
  * [[http://dambalah.com/][Luc Castera]] gave a [[http://dambalah.com/2008/05/03/becamp-slides-ramaze/][presentation on Ramaze]] at [[http://barcamp.org/beCamp2008][Charlottesville beCamp]] //on May 2 2008//
  * [[http://wonko.com][Ryan Grove]] agreed, [[http://wonko.com/post/ramaze-is-beautiful][Ramaze is beautiful]]  //on April 29 2008//
@@ -57,19 +57,19 @@ Ramaze.start
 
 ** Entwicklung
 
-  * [[http://github.com/manveru/ramaze][GitHub hosted repository]]
+  * [[https://github.com/manveru/ramaze][GitHub hosted repository]]
   * [[http://source.ramaze.net][Ramaze source browser]]
   * [[http://ramaze.rubyforge.org/rdoc][RDocs]]
 
 ** Neueste Änderungen
-feed:http://github.com/feeds/manveru/commits/ramaze/master
+feed:https://github.com/feeds/manveru/commits/ramaze/master
 
 ** Neuestes in der Mailingliste
 feed:http://groups.google.com/group/ramaze/feed/rss_v2_0_msgs.xml
 
 ** Andere Frameworks
 
-  * [[http://github.com/botanicus/rango][Rango]], ultralightweight, ultracustomizable, ultracool web framework inspired by Django
+  * [[https://github.com/botanicus/rango][Rango]], ultralightweight, ultracustomizable, ultracool web framework inspired by Django
   * [[http://borges.rubyforge.org/][Borges]], continuations based ruby web-framework originally ported from SeaSide
   * [[http://camping.rubyforge.org/files/README.html][Camping]], _why's 4k micro-framework
   * [[http://cerise.rubyforge.org/][Cerise]], web-framework modeled on J2EE app servers

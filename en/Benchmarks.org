@@ -1,6 +1,6 @@
 * Ramaze Benchmarks
 
-These benchmarks were generated using Ramaze's [[http://github.com/manveru/ramaze/tree/master/benchmarks/run.rb][benchmark suite]]. Benchmarks for more adapters (fastcgi, swifiplied_mongrel) and other frameworks (rails, merb, camping) coming soon...
+These benchmarks were generated using Ramaze's [[https://github.com/manveru/ramaze/tree/master/benchmarks/run.rb][benchmark suite]]. Benchmarks for more adapters (fastcgi, swifiplied_mongrel) and other frameworks (rails, merb, camping) coming soon...
 For best performance, use evented_mongrel (requires installation of swiftiply and eventmachine gems)
 Preliminary [[benchmarks-1.9][ruby-1.9 benchmarks]] show a 60-80% speedup.
 

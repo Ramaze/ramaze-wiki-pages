@@ -26,12 +26,12 @@ Ramaze.start
 
 ** 開発者向けリンク
 
-  * [[http://github.com/manveru/ramaze][リポジトリ(GitHub)]]
+  * [[https://github.com/manveru/ramaze][リポジトリ(GitHub)]]
   * [[http://source.ramaze.net][ソースコードブラウザ]]
   * [[http://ramaze.rubyforge.org/rdoc][ドキュメント(RDoc)]]
 
 ** 最近の更新
-[[feed:http://github.com/feeds/manveru/commits/ramaze/master]]
+[[feed:https://github.com/feeds/manveru/commits/ramaze/master]]
 
 ** 最近のメーリングリスト
 [[feed:http://groups.google.com/group/ramaze/feed/rss_v2_0_msgs.xml]]

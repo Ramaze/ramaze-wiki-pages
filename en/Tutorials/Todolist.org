@@ -1,6 +1,6 @@
 * The official Ramaze todolist tutorial
 
-This tutorial was adapted from Michael 'manveru' Fellinger's original tutorial located [[http://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][here]].
+This tutorial was adapted from Michael 'manveru' Fellinger's original tutorial located [[https://github.com/manveru/ramaze/tree/master/doc/tutorial/todolist.html][here]].
 
 ** Step Zero, Introduction
 

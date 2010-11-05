@@ -28,12 +28,12 @@ Ramaze.start
 
 ** Développement
 
-  * [[http://github.com/manveru/ramaze][Boite de dépôt sur GitHub]]
+  * [[https://github.com/manveru/ramaze][Boite de dépôt sur GitHub]]
   * [[http://source.ramaze.net][Code source de Ramaze]]
   * [[http://ramaze.rubyforge.org/rdoc][RDocs]]
 
 ** Patches Récents
-[[feed:http://github.com/feeds/manveru/commits/ramaze/master]]
+[[feed:https://github.com/feeds/manveru/commits/ramaze/master]]
 
 ** Posts Récents sur Google Group
 [[feed:http://groups.google.com/group/ramaze/feed/rss_v2_0_msgs.xml]]

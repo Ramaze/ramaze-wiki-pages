@@ -47,7 +47,7 @@ Aussi assurez-vous que vos fichiers sont placés dans le dossier que Ramaze cons
 
 ** Comment gérer les téléchargements de fichiers?
 
-Consulter [[http://github.com/manveru/ramaze/tree/master/examples/app/upload][l'exemple de téléchargement]] dans le dossier 'example'.
+Consulter [[https://github.com/manveru/ramaze/tree/master/examples/app/upload][l'exemple de téléchargement]] dans le dossier 'example'.
 
 ** Comment faire pour que Ramaze serve les fichiers statiques?
 
@@ -93,7 +93,7 @@ Il n'y a pas de bug tracker officiel pour Ramaze. Principalement pour les raison
  * Ramaze inclu de bon fichiers de spécification, donc la plupart des problèmes sont réglés avant même de se retrouver sur Github.
  * Pour ce qui est des modifications ou de véritables bugs, ils sont traités via la mailing list ou le canal IRC, et puis des spécifications sont aussitôt ajoutés. Parfois celui qui découvre le bug fait lui-même un patch et l'envoie. Les patches sont acceptés assez vite généralement.
 
-Néanmoins si vous ressentez vraiment le besoin d'utiliser un bug tracker, soumettez l'idée  [[http://github.com/manveru/ramaze/issues][ici]].
+Néanmoins si vous ressentez vraiment le besoin d'utiliser un bug tracker, soumettez l'idée  [[https://github.com/manveru/ramaze/issues][ici]].
 
 ** Logger
 
@@ -188,4 +188,4 @@ Ramaze.options.adapter.port = 8080
 Ramaze.options.adapter.handler = :mongrel
 }}}
 
-Voir aussi [[http://github.com/manveru/innate/blob/master/lib/innate/options.rb][options.rb]] et [[http://book.ramaze.net/#_configuration][Journey to Ramaze: Configuration]]
+Voir aussi [[https://github.com/manveru/innate/blob/master/lib/innate/options.rb][options.rb]] et [[http://book.ramaze.net/#_configuration][Journey to Ramaze: Configuration]]

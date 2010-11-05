@@ -101,7 +101,7 @@ Generally, the flash hash should only be used together with redirection.
 
 ** How do I handle file uploads?
 
-See [[http://github.com/manveru/ramaze/tree/master/examples/app/upload][the file upload example]] in the examples directory.
+See [[https://github.com/manveru/ramaze/tree/master/examples/app/upload][the file upload example]] in the examples directory.
 
 ** How do I get Ramaze to serve static files?
 
@@ -147,7 +147,7 @@ There is no official issue tracking software in place.  A couple of probable rea
  * Ramaze is well-spec'ed, so many problems are dealt with before they even make it into the repository.
  * Any feature requests and actual bug reports just trickle into the mailing list or the IRC channel, and they are spec'ed and dealt with very quickly. Sometimes the discoverer of the problem just creates and submits a patch, and sends it in. Patches are usually accepted very quickly.
 
-Nevertheless, if you feel that you must use an issue tracker in lieu of the mailing list and IRC channel, then submit a new ticket [[http://github.com/manveru/ramaze/issues][here]].
+Nevertheless, if you feel that you must use an issue tracker in lieu of the mailing list and IRC channel, then submit a new ticket [[https://github.com/manveru/ramaze/issues][here]].
 
 ** Logging
 
@@ -242,4 +242,4 @@ Ramaze.options.adapter.port = 8080
 Ramaze.options.adapter.handler = :mongrel
 }}}
 
-See [[http://github.com/manveru/innate/blob/master/lib/innate/options.rb][options.rb]] and [[http://book.ramaze.net/#_configuration][Journey to Ramaze: Configuration]]
+See [[https://github.com/manveru/innate/blob/master/lib/innate/options.rb][options.rb]] and [[http://book.ramaze.net/#_configuration][Journey to Ramaze: Configuration]]

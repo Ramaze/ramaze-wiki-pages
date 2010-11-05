@@ -10,7 +10,7 @@ Ramaze utilise [[http://git.or.cz/][Git]] comme système de contrôle de version
   * [[http://www.kernel.org/pub/software/scm/git/docs/everyday.html][Everyday Git]]
   * [[http://tomayko.com/writings/the-thing-about-git][The Thing about Git]]
 
-La boite de dépôt Git de Ramaze se trouve sur [[http://github.com/manveru/ramaze/][Github]].
+La boite de dépôt Git de Ramaze se trouve sur [[https://github.com/manveru/ramaze/][Github]].
 
 ** Obtenir Ramaze
 
@@ -27,7 +27,7 @@ git pull
 }}}
 
 Il est aussi possible de créer votre propre fork de Ramaze sur github.
-Visitez [[http://github.com/manveru/ramaze/tree/master][la page de Ramaze sur Github]] et cliquez sur le bouton 'Fork'.
+Visitez [[https://github.com/manveru/ramaze/tree/master][la page de Ramaze sur Github]] et cliquez sur le bouton 'Fork'.
 
 ** Utiliser la version de la boite de dépôt
 
